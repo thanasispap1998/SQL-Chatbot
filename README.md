@@ -16,7 +16,7 @@ Here is a quick summary of the notebooks:
 
 1) Functions: This notebook contains all the functions that are called in the "ChatBot" notebook in order to execute certain SQL queries.
 
-2) ChatBot: The "ChaBot" notebook is essentially the whole project. The chatbot guides to user throughtout the whole query step by step. First we connect to the Workbench and after that the user is free to choose any action he wants to perform, from creating a new database to executing an "Insert" query.
+2) ChatBot: The "ChaBot" notebook is essentially the whole project. The chatbot guides to user throughout the whole query step by step. First, we connect to the Workbench and after that the user is free to choose any action he wants to perform, from creating a new database to executing an "Insert" query.
 
 And here is a quick summary of the datasets:
 
